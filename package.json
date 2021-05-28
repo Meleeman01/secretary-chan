@@ -1,0 +1,23 @@
+{
+  "name": "secretary-chan",
+  "version": "1.0.0",
+  "description": "a telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "uhh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meleeman01/secretary-chan.git"
+  },
+  "author": "meleeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Meleeman01/secretary-chan/issues"
+  },
+  "homepage": "https://github.com/Meleeman01/secretary-chan#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.3.0"
+  }
+}
